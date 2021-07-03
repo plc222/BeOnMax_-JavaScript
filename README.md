@@ -1,2 +1,2 @@
-# BeOnMax_JavaScript---
+# BeOnMax_JavaScript
 JavaScript - полный курс с нуля до результата.
